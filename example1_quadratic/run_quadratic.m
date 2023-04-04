@@ -8,7 +8,7 @@
 %     DOI: 10.1080/10556788.2018.1506452
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
-% Example1: Linear cone contraint Quadratic objective
+% Example_1: Linear cone contraint Quadratic objective
 
 % Construction of the matrices for the problem
 N=16;
